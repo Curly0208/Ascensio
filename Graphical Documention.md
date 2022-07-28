@@ -15,7 +15,7 @@
 
 ## Preamble
 
-#### The goal of Ascensio is to breathe new life into an old, yet not forgotten game. The idea was not to completely stray away from the original vision made by Bethesda in 2011, but to enhance it. Of course, sacrifices have been made in this light. Not every texture or mesh chosen has the upmost intent in conserving the vanilla color palette and or feel; but the all graphical mods have been chosen to ensure consistency and beauty. 
+### The goal of Ascensio is to breathe new life into an old, yet not forgotten game. The idea was not to completely stray away from the original vision made by Bethesda in 2011, but to enhance it. Of course, sacrifices have been made in this light. Not every texture or mesh chosen has the upmost intent in conserving the vanilla color palette and or feel; but the all graphical mods have been chosen to ensure consistency and beauty. 
 ## Graphical Baseline
 
 ### A combination of mods have been used for Asensio's graphical baseline for maximum quality.

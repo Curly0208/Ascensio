@@ -25,7 +25,7 @@
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Ascensio](#downloading-and-installing-Scensio)
+      - [Downloading and Installing Ascensio](#downloading-and-installing-ascensio)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)

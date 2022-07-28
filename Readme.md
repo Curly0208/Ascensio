@@ -2,8 +2,6 @@
 
 
 
-TESTING TESTING 123
-
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/WJIcon.png" width="64px" /></td>

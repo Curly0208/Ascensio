@@ -219,7 +219,11 @@ You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory
 
 - _YOU_ for reading this.
 - The entire staff of the [Animonculory](https://discord.gg/DffHKcszfg). They've been unconditionally supportive of my work and I couldn't have done it without them.
+  - Styyx for answering and all of my questions
+  - Althro for his advice on various topics
+  - Destiny for always having my back
 - The cool dudes over at [Jolly Co-Operators](https://discord.gg/jolly-coop)
+- JustThatKing for his endless knowledge on graphics
 - iAmMe his endless support and double checking my work
 - Bingus for jump starting my modding journey
 - Noggog for Mutagen and the xEdit team for xEdit and their tools

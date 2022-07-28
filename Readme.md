@@ -29,6 +29,7 @@
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
+    - [Documentation](#documentation)
     - [BethINI](#bethini)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
@@ -135,10 +136,14 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Ascensio uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Stock Game”. You don’t need to copy anything at all.
 
+### Documentation
+
+ - ### [Graphical Changes & Notes](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
+
 ### ENB
 Ascensio is designed for use with an ENB and comes with [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list.
 
-If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Ascensio\tools\Enb Organizer\Games\SkyrimSE\Preset`.
+If you wish to install your own ENB, however, an ENB manager is included. Simply put your new ENB into a seperate folder in `Ascensio\tools\Enb Organizer\Games\Ascensio\Preset`.
 
 #### Using ENB Organizer
 
@@ -192,7 +197,9 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-N/A at the moment. 
+> Is there any documenation on what mods were used in Ascensio?
+
+Yes, [Click Here to See it](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
 
 ### Tweaking the Game Settings
 

@@ -84,6 +84,15 @@ Prior to installing Ascensio, please complete the following steps.
 6. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**
  #### __Step 3 and 4 are only necessary if you modded the game without a 'stock game' and cleaned the master files.__
 
+ Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following. 
+
+ 1. Right click on your desktop and select **NVIDIA Control Panel**
+ 2. Navigate and click on **Manage 3D settings**. It is the 2nd one to the top.
+ 3. Scroll down in Global Settings until you see **Shader Cache Size**
+ 4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
+ 5. Click **Apply** in the bottom right hand corner. 
+ 6. You may exit out of the application.
+
 ### Wabbajack Installation
 
 #### Installing Wabbajack

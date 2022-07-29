@@ -64,10 +64,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 
 Space required: 
-- Approx 240GB (Downloads included)
+- Approx 210GB (Downloads included)
 
 Size without downloads: 
-- Approx 140GB
+- Approx 120GB
 
 ## Installation
 

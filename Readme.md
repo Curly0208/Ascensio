@@ -139,6 +139,7 @@ Ascensio uses a Wabbajack feature called Stock Game to keep your Skyrim installa
 ### Documentation
 
  - ### [Graphical Changes & Notes](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
+ - ### [Adding Mods to Ascensio](https://github.com/Curly0208/Ascensio/blob/main/Adding%20Mods%20to%20Ascensio.md)
 
 ### ENB
 Ascensio is designed for use with an ENB and comes with [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791), already activated and ready for use. The ENB has been custom tweaked for the list to match the intended look, feel and performance of the list.

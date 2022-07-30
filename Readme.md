@@ -197,7 +197,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-> Is there any documenation on what mods were used in Ascensio?
+> Is there any documenation on what __Graphics__ mods were used in Ascensio?
 
 Yes, [Click Here to See it](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
 
@@ -229,7 +229,7 @@ Simply delete the folder, and you have uninstalled it.
 
 Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Curly0208/Ascensio/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD.
 
-You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Changelog.md) before you do.
+You are welcome to [contribute](https://github.com/Curly0208/Ascensio/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Curly0208/Ascensio/blob/main/Changelog.md) before you do.
 
 ## Credits and Thanks
 
@@ -238,6 +238,9 @@ You are welcome to [contribute](https://github.com/The-Animonculory/Animonculory
   - Styyx for answering and all of my questions
   - Althro for his advice on various topics
   - Destiny for always having my back
+  - Astro for coming up with the name *Ascensio*
+  - Anna for always giving me a good laugh 
+  - Arkay & Chef for being awesome dudes
 - The cool dudes over at [Jolly Co-Operators](https://discord.gg/jolly-coop)
 - JustThatKing for his endless knowledge on graphics
 - iAmMe his endless support and double checking my work

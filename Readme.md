@@ -61,7 +61,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Video Card**    | GTX 1080 / RTX 2060 / RX 5600 XT | RTX 3060 Ti / RTX 2080 / RX 6700 XT       |
 | **Ram**    | 16gb (2x8) DDR4 2666mhz RAM      | 32gb (2x16) DDR4 3200mhz RAM     |
 
->  I will **not** be supporting any AMD GPUs from before the Polaris Series (RX 500) and any NVIDIA GPUs from before the Maxwell Series (GTX 700/900). These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
+>  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
 Space required: 
 - Approx 210GB (Downloads included)

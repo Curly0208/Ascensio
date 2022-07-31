@@ -18,9 +18,9 @@
 #### The goal of Ascensio is to breathe new life into an old, yet not forgotten game. The idea was not to completely stray away from the original vision made by Bethesda in 2011, but to enhance it. Of course, sacrifices have been made in this light. Not every texture or mesh chosen has the upmost intent in conserving the vanilla color palette and or feel; but the all graphical mods have been chosen to ensure consistency and beauty. 
 ## Graphical Baseline
 
-### A combination of mods have been used for Asensio's graphical baseline for maximum quality.
+#### A combination of mods have been used for Asensio's graphical baseline for maximum quality.
 
-### These include: 
+#### These include: 
  - [Cleaned Skyrim Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) & [Cleaned Anniversary Edition](https://www.nexusmods.com/skyrimspecialedition/mods/58120) Textures as well
 - [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179) as a fantastic base for some dungeons, cities, and other miscellaneous textures
 - [Revamped Assets Skyrim](https://www.nexusmods.com/skyrim/mods/75380) & [Little Things](https://www.nexusmods.com/skyrim/mods/65959) to cover many forgotten textures, meshes, and visual effects that many other mods do not touch 
@@ -28,7 +28,7 @@
 
 ## Notable Mod Authors 
 
-### Ascensio's Graphical Baseline has hundreds of mod authors' work, though there were a few authors that I used more than just a couple mods from that I'd like to highlight.
+#### Ascensio's Graphical Baseline has hundreds of mod authors' work, though there were a few authors that I used more than just a couple mods from that I'd like to highlight.
  - [Windedave](https://www.nexusmods.com/skyrimspecialedition/users/52194591?tab=user+files)
  - [Skyking](https://www.nexusmods.com/skyrimspecialedition/users/841133?tab=user+files)
  - [Mathy](https://www.nexusmods.com/skyrimspecialedition/users/12770808?tab=user+files)
@@ -39,11 +39,11 @@
 
 ## Lighting 
 
-### Ascensio comes with a fully patched [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095), & [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588). This was decided after careful consideration of many other lighting mods. Other mods that were considered included [Window Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/37831), [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424), [ELE](https://www.nexusmods.com/skyrimspecialedition/mods/1377), & [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586). I decided that Lux was not only the best looking, but created the most realistic simulation of interior lighting out of all the mods I tried out.
+#### Ascensio comes with a fully patched [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095), & [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588). This was decided after careful consideration of many other lighting mods. Other mods that were considered included [Window Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/37831), [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424), [ELE](https://www.nexusmods.com/skyrimspecialedition/mods/1377), & [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586). I decided that Lux was not only the best looking, but created the most realistic simulation of interior lighting out of all the mods I tried out.
 
 ## Weather
 
-### By Default, Ascensio comes with [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791). This choice was made for the soul purpose of using Zangdar's edit for Rudy ENB. 
+#### By Default, Ascensio comes with [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791). This choice was made for the soul purpose of using Zangdar's edit for Rudy ENB. 
 
 ## Environment
 
@@ -68,7 +68,7 @@
 
 ## Settlements
 
-### I've gone through several hours worth of textures for each city, deciphering which one would fit best for Ascensio.
+#### I've gone through several hours worth of textures for each city, deciphering which one would fit best for Ascensio.
 
 #### For most visited settlements, I've gone with either [Skyking](https://www.nexusmods.com/skyrimspecialedition/users/841133?tab=user+files) or [Dave's](https://www.nexusmods.com/skyrimspecialedition/users/52194591?tab=user+files) work.
  - Skyrim
@@ -90,9 +90,9 @@
 
 ## Clutter, Furniture, & Miscellaneous
 
- ### One of the most overlooked areas of enhancing your Skyrim look are the smaller things that populate the world. This could be a fork, a bowl, an apple, or even a gemstone. Sometimes modders forgot these littler objects. However, I've taken the time to dig and search to find the most high quality retextures and remeshes out there for the smaller sized objects.
+ #### One of the most overlooked areas of enhancing your Skyrim look are the smaller things that populate the world. This could be a fork, a bowl, an apple, or even a gemstone. Sometimes modders forgot these littler objects. However, I've taken the time to dig and search to find the most high quality retextures and remeshes out there for the smaller sized objects.
 
- ### There are around 150+ mods just retexturing, food, beverages, ingredients, valuables, furniture, and clutter. I won't list them all, but I'll list the most notable ones in Ascensio.
+ #### There are around 150+ mods just retexturing, food, beverages, ingredients, valuables, furniture, and clutter. I won't list them all, but I'll list the most notable ones in Ascensio.
 
  - [Skyrim 2020's Clutter](https://www.nexusmods.com/skyrimspecialedition/mods/58370?tab=files)
  - [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029) with many optimizations 

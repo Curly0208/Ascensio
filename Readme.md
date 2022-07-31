@@ -233,7 +233,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Curly0208/Ascensio/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD.
+Please check the [issues](https://github.com/Curly0208/Ascensio/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Animonculory](https://discord.gg/DffHKcszfg) discord for support.
 
 You are welcome to [contribute](https://github.com/Curly0208/Ascensio/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Curly0208/Ascensio/blob/main/Changelog.md) before you do.
 

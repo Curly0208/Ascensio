@@ -201,7 +201,11 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 > Is there any documenation on what __Graphics__ mods were used in Ascensio?
 
-Yes, [Click Here to See it](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
+Yes, [Click Here to See](https://github.com/Curly0208/Ascensio/blob/main/Graphical%20Documention.md)
+
+> Can I fork this readme for my own Wabbajack list? 
+
+Yes, this was originally [Althro's](https://github.com/Althro?tab=repositories) readme that he allowed me to fork. You can do the same. If you want to ask out of courtesy, you can ask him in the [Animonculory](https://discord.gg/DffHKcszfg) discord.-
 
 ### Tweaking the Game Settings
 
